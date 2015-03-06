@@ -1,0 +1,31 @@
+* emasc shortcut
+** replace
+   alt-% = alt-shift-5
+* emacs lisp
+  * set varaible
+    + (setq foo "bar")
+      setq means set quote
+  * cursor   
+    C-J evaluation
+** lexical stuff                                                    :lexical:
+   - comment
+     () ; comment
+   - strings
+     double quoted only
+   - boolean
+     t: true
+     nil: false(means null)
+   - array
+     + vectors
+     + use square brackets to create
+     + use white space to separate
+   - lists
+     - anything in parenthese is a list, unless you quote it
+   - pairs
+     - build-in hashtables
+** Statement
+   - if/else
+   - 
+* emacs tutorial kit
+* emacs org-mode
+  c-c c-x \ toggle display of entities as UTF-8 character

@@ -1,0 +1,2 @@
+;; uasage just:typing
+(defind-key ac-mode (kbb "M-TAB") 'company-complete)

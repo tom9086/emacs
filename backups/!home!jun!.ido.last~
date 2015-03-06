@@ -1,0 +1,89 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/jun/Desktop/dataMing/" . "ps3/")
+ ("/home/jun/Desktop/" . "dataMing/")
+ ("/home/jun/Desktop/notes/" . "datamining/")
+ ("/home/" . "jun/")
+ ("/" . "home/")
+ ("/home/jun/" . "Desktop/")
+ ("/home/jun/.emacs.d/elpa/" . "diff-hl-20150113.2113/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/jun/"
+ "/home/jun/Desktop/dataMing/ps3/"
+ "/home/jun/Desktop/notes/"
+ "/home/jun/Desktop/notes/datamining/"
+ "/home/jun/Desktop/notes/writing/"
+ "/home/jun/Desktop/todo/"
+ "/home/jun/Desktop/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ ".emacs"
+ "ps3sh"
+ "ps3.java"
+ "mongo.org"
+ "python.org"
+ "linux.org"
+ "json.org*"
+ "git.org"
+ "l9.org"
+ "emacs.org"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/jun/" (21751 42978 868513 492000) ".gnupg/" "#tests.java#" ".openoffice/" "t" "./" ".pki/" ".mongorc.js" ".ssh/" ".cache/" "javascripts/" "#api#" ".Xauthority" "workspace/" "#devices.csv#" ".bash_aliases" "Public/" "mallet/" "graph.png" ".gitconfig" ".npm/" "test.py" ".ICEauthority" "Templates/" ".dbshell" ".pam_environment" ".recentf" ".viminfo" ".icons/" ".rpmdb/" "aptinstall" ".libs/" ".mozilla/" ".compiz/" "devices.csv" "#lib#" "Videos/" "#test.js#" ".gconf/" "npm-debug.log" ".gstreamer-0.10/" ".subversion/" "test.org" "dump.csv" ".emacs~" ".freerdp/" "Music/" "#test.py#" ".emacs" "Pictures/" ".gnome/" ".xdvirc" "#mongo#" ".profile" ".psql_history" "Ubuntu One/" ".bash_history" "missfont.log" "../" ".ido.last" ".bash_aliases~" ".dmrc" "temp" "production.log" "backup.txt" "course.api" "Documents/" ".gphoto/" "#production.log#" "backup.xml" ".bashrc" "examples.desktop" ".emacs.d/" ".nv/" "texmf/" ".gnome2/" "chap7slides.pdf" ".thunderbird/" ".nvidia-settings-rc" "store.csv~" "store.csv" ".pip/" ".config/" ".speech-dispatcher/" "#test#" ".remmina/" ".local/" ".dbus/" "Downloads/" "get-pip.py" "tmp/" "wget-log" "course.api~" "index.html" ".xsession-errors.old" "pipinstall" ".xsession-errors" "Desktop/" ".bash_logout")
+
+ ("/home/jun/Desktop/dataMing/ps3/" (21751 42042 868541 202000) "./" "cluster.class" "go.java" "point.class" "../" "ps3.java" "ps3.sh" "C1.txt" "ps3.class" "ps3sh")
+
+ ("/home/jun/Desktop/notes/" (21751 29984 940898 174000) "deft-0.org" "./" "linux.org" "mongo.org" "json.org*" "#googl.js#" "git.org" "todo.org" "todo.org_archive" "emacs.org" "../" "writing/" "deft-1.org" "datamining/" "python.org" ".git/")
+
+ ("/home/jun/.emacs.d/" (21751 14356 530544 349000) "starter-kit-scala.org" "starter-kit.org" "starter-kit-js.org" "./" "Makefile" "starter-kit-misc.el" "starter-kit-bindings.org" "README" "starter-kit-lisp.org" "src/" "starter-kit-misc-recommended.org" "image-dired/" "places" "#starter-kit-eshell.org#" "starter-kit-ruby.org" "starter-kit-python.org" "init.el" "custom.el" "literate-starter-kit-pkg.el" "starter-kit-bindings.el" "starter-kit-gnus.org" "backups/" "starter-kit-latex.org" "starter-kit-registers.el" "starter-kit-registers.org" "snippets/" "starter-kit-publish.org" "../" "starter-kit-defuns.org" "deft.el" "starter-kit-eshell.org" "COPYING" "starter-kit-defuns.el" "starter-kit.el" "elpa/" "starter-kit-perl.org" "starter-kit-misc.org" "starter-kit-haskell.org" "starter-kit-g-client.org" "auto-save-list/" "starter-kit-yasnippet.org" "starter-kit-org.org" "starter-kit-js.el")
+
+ ("/home/jun/.emacs.d/elpa/" (21751 14335 218544 980000) "js2-mode-readme.txt" "./" "js2-mode-20150301.337/" "archives/" "color-theme-sanityinc-solarized-20150226.1104/" "git-commit-mode-20141014.1634/" "company-readme.txt" "magit-20150124.930/" "../" "git-rebase-mode-20150122.1114/" "color-theme-sanityinc-tomorrow-readme.txt" "color-theme-sanityinc-solarized-readme.txt" "company-20150301.1814/" ".gitignore")
+
+ ("/home/jun/.emacs.d/elpa/color-theme-sanityinc-solarized-20150226.1104/" (21751 14335 78544 984000) "./" "color-theme-sanityinc-solarized.el" "color-theme-sanityinc-solarized-pkg.el" "sanityinc-solarized-dark-theme.elc" "sanityinc-solarized-dark-theme.el" "sanityinc-solarized-light-theme.elc" "../" "color-theme-sanityinc-solarized.elc" "color-theme-sanityinc-solarized-autoloads.el" "sanityinc-solarized-light-theme.el")
+
+ ("/home/jun/Desktop/dataMing/" (21748 60151 125291 113000) "ps1/" "./" ".#random.java" "random.java" "random.class" "random.java~" "#random.java#" "hw2/" "../" "ps3/")
+
+ ("/home/jun/Desktop/" (21751 13079 729344 159000) "dataMing/" "./" "#api.txt#~" ".#r.js" "workspace/" "fanhe/" "columbuscout.zip" "columbuscout/" "u0682491.key" "test.cpp~" "notes/" " eclipse" "todo/" "course/" "emacs/" "Acumen Disc - Optical Drivers.htm~" "../" "Untitled Document~" "storm/" "eclipse/" "JAVA/" "data/" "code/" "graph.cpp~")
+
+ ("/home/jun/Desktop/notes/datamining/" (21748 44127 985765 474000) "./" "l9.log" "l9.pdf" "l9.out" "l9.tex" "l9.aux" "../" "l8.org" "l9.org" "l9.toc")
+
+ ("/usr/share/emacs/" (21740 59958 757929 611000) "./" "site-lisp/" "24.3/" "23.4/" "../")
+
+ ("/usr/share/emacs/24.3/" (21740 59962 705929 494000) "./" "site-lisp/" "lisp/" "leim/" "../" "etc/")
+
+ ("/usr/share/emacs/24.3/etc/" (21740 59964 261929 448000) "DOC-24.3.1" "CENSORSHIP" "forms/" "NEWS.20" "srecode/" "./" "HELLO" "compilation.txt" "README" "GNUS-NEWS" "celibacy.1" "ORDERS" "PROBLEMS" "NEWS.21" "images/" "rgb.txt" "NXML-NEWS" "gnus-tut.txt" "LINUX-GNU" "charsets/" "themes/" "copying.paper" "NEWS.22" "DEBUG" "schema/" "JOKES" "WHY-FREE" "NEWS" "TERMS" "COOKIES" "emacs.icon" "MOTIVATION" "echo.msg" "grep.txt" "GNU" "DEVEL.HUMOR" "tutorials/" "INTERVIEW" "condom.1" "NEWS.23" "FTP" "yow.lines" "DISTRIB" "../" "ETAGS.EBNF" "org/" "MH-E-NEWS" "ERC-NEWS" "COPYING" "enriched.doc" "THE-GNU-PROJECT" "gnus/" "e/" "ORG-NEWS" "publicsuffix.txt" "nxml/" "future-bug" "ses-example.ses" "refcards/" "sex.6" "TODO" "ps-prin0.ps" "spook.lines" "SERVICE" "MACHINES" "NEWS.1-17" "emacs-buffer.gdb" "NEWS.18" "NEXTSTEP" "MORE.STUFF" "edt-user.el" "ps-prin1.ps" "AUTHORS" "CONTRIBUTE" "ETAGS.README" "MAILINGLISTS" "NEWS.19")
+
+ ("/home/jun/Desktop/notes/writing/" (21747 41827 371773 761000) "./" "1.org" "#1.org#" "../")
+
+ ("/home/jun/Desktop/emacs/" (21742 12999 74328 105000) "./" "../" "test.js")
+
+ ("/home/jun/Desktop/todo/" (21746 49294 769492 868000) "./" "org-mode.org" "today.org" "../")
+
+ ("/dev/" (21742 1462 512785 630000) "vga_arbiter" "rfkill" "mem" "null" "port" "zero" "full" "random" "urandom" "kmsg" "tty" "console" "tty0" "vcs" "vcsa" "vcs1" "vcsa1" "tty1" "tty2" "tty3" "tty4" "tty5" "tty6" "tty7" "tty8" "tty9" "tty10" "tty11" "tty12" "tty13" "tty14" "tty15" "tty16" "tty17" "tty18" "tty19" "tty20" "tty21" "tty22" "tty23" "tty24" "tty25" "tty26" "tty27" "tty28" "tty29" "tty30" "tty31" "tty32" "tty33" "tty34" "tty35" "tty36" "tty37" "tty38" "tty39" "tty40" "tty41" "tty42" "tty43" "tty44" "tty45" "tty46" "tty47" "tty48" "tty49" "tty50" "tty51" "tty52" "tty53" "tty54" "tty55" "tty56" "tty57" "tty58" "tty59" "tty60" "tty61" "tty62" "tty63" "cpu/" "snapshot" "ecryptfs" "fuse" "ptmx" "ttyS0" "ttyS1" "ttyS2" "ttyS3" "ttyS4" "ttyS5" "ttyS6" "ttyS7" "ttyS8" "ttyS9" "ttyS10" "ttyS11" "ttyS12" "ttyS13" "ttyS14" "ttyS15" "ttyS16" "ttyS17" "ttyS18" "ttyS19" "ttyS20" "ttyS21" "ttyS22" "ttyS23" "ttyS24" "ttyS25" "ttyS26" "ttyS27" "ttyS28" "ttyS29" "ttyS30" "ttyS31" "ttyprintk" "hpet" "ram0" "ram1" "ram2" "ram3" "ram4" "ram5" "ram6" "ram7" "ram8" "ram9" "ram10" "ram11" "ram12" "ram13" "ram14" "ram15" "loop-control" "loop0" "loop1" "loop2" "loop3" "loop4" "loop5" "loop6" "loop7" "net/" "ppp" "bus/" "input/" "psaux" "uinput" "rtc0" "mapper/" "mcelog" "cpu_dma_latency" "network_latency" "network_throughput" "pts/" ".initramfs/" "core" "fd/" "stdin" "stdout" "stderr" "btrfs-control" "char/" "rtc" "block/" "sg0" "bsg/" "sda" "sr0" "sg1" "sda1" "sda2" "sda5" "disk/" "hidraw0" "hidraw1" "usb/" "hidraw2" "sg2" "sg3" "sg4" "sg5" "sdb" "sdc" "sdd" "sde" "vcs7" "vcsa7" ".udev/" "shm/" "cuse" "autofs" "vhci" "uhid" "vhost-net" "snd/" "dri/" "mei" "watchdog" "watchdog0" "cdrom" "vcs2" "vcsa2" "vcs3" "vcsa3" "vcs4" "vcsa4" "vcs5" "vcsa5" "vcs6" "vcsa6" "log" "nvidiactl" "nvidia0" "../" "./")
+
+ ("/usr/" (21714 25504 215031 411000) "./" "lib32/" "src/" "include/" "share/" "games/" "sbin/" "lib/" "bin/" "../" "local/")
+
+ ("/usr/share/" (21740 59961 333929 535000) "texinfo/" "gstreamer-0.10/" "gcr-3/" "nautilus/" "menu/" "console-setup/" "openmpi/" "nano/" "aclocal-1.14/" "postgresql-common/" "texlive/" "xul-ext/" "2013.com.canonical.certification:plainbox-resources/" "recovery-mode/" "tex4ht/" "gedit/" "gvfs/" "gdb/" "icu/" "colord/" "locale-langpack/" "pyshared/" "evince/" "nux/" "pam-configs/" "tcltk/" "brasero/" "alsa-base/" "iptables/" "os-prober/" "man/" "misc/" "po-debconf/" "mime/" "gnome-vpn-properties/" "webbrowser-app/" "metacity/" "nautilus-share/" "nm-applet/" "liblouis/" "color/" "debianutils/" "command-not-found/" "ca-certificates-java/" "mythes/" "checkbox-gui/" "cheese/" "shotwell/" "bash-completion/" "keyrings/" "unity-tweak-tool/" "intltool-debian/" "java/" "branding/" "sphinx-voxforge-en/" "libthai/" "screen-resolution-extra/" "simple-scan/" "git-core/" "javazi/" "et/" "transmission/" "doc-base/" "rsyslog/" "mpi-default-dev/" "libtool/" "m17n/" "python3/" "unity-settings-daemon/" "hwdata/" "popularity-contest/" "xml-core/" "javascript/" "apt-xapian-index/" "alsa/" "language-support/" "activity-log-manager/" "apps/" "djvu/" "pkgconfig/" "qtchooser/" "qtdeclarative5-ubuntu-ui-extras-browser-plugin/" "evolution-data-server/" "libgweather/" "initramfs-tools/" "accountsservice/" "vim/" "consolefonts/" "nvidia/" "linux-sound-base/" "empathy/" "aspell/" "hunspell/" "telepathy/" "gnome-sudoku/" "thumbnailers/" "libnm-gtk/" "omf/" "ant/" "ssl-cert/" "libvisual-plugins-0.4/" "update-manager/" "ghostscript/" "usb_modeswitch/" "webkitgtk-3.0/" "python3-plainbox/" "fonts-font-awesome/" "application-registry/" "ubuntuone-control-panel/" "apparmor/" "themes/" "deja-dup/" "sgml-base/" "pixmaps/" "purple/" "adduser/" "rhythmbox/" "compiz/" "locales/" "grub-gfxpayload-lists/" "gnome-shell/" "gettext/" "language-tools/" "apport/" "i18n/" "python-apt/" "gnupg/" "foo2qpdl/" "gtksourceview-3.0/" "desktop-directories/" "poppler/" "gnome-online-accounts/" "apturl/" "automake-1.14/" "perl/" "accounts/" "common-licenses/" "ppd/" "notify-osd/" "base-files/" "dictionaries-common/" "indicators/" "pyzy/" "calendar/" "gnome-system-monitor/" "yelp/" "liblangtag/" "ibus-table/" "readline/" "brltty/" "xgreeters/" "unity-scopes/" "emacs/" "rdesktop/" "gitweb/" "libsensors4/" "node-mime/" "gstreamer-1.0/" "oneconf/" "url-dispatcher/" "sounds/" "mobile-broadband-provider-info/" "pygtk/" "polkit-1/" "friends/" "gnome-disk-utility/" "idl/" "nvidia-346/" "speech-dispatcher/" "gtk-engines/" "ImageMagick-6.7.7/" "package-data-downloads/" "nautilus-sendto/" "cogl/" "boost-build/" "gnome-background-properties/" "usb-creator/" "help/" "lcdf-typetools/" "compizconfig/" "dh-python/" "swath/" "aclocal/" "gutenprint/" "language-selector/" "mime-info/" "apt/" "mercurial/" "session-migration/" "hardening-includes/" "bug/" "maven-repo/" "unattended-upgrades/" "info/" "zoneinfo/" "pstoedit/" "gnome-mines/" "emacs24/" "upstart/" "ca-certificates/" "gnome-terminal/" "app-install/" "cups/" "man-db/" "autoconf/" "tex-common/" "xsessions/" "kde4/" "xindy/" "libparse-debianchangelog-perl/" "ccsm/" "eog/" "ubuntu-drivers-common/" "totem/" "vino/" "dpkg/" "fonts/" "emacs23/" "pulseaudio/" "qt4/" "backgrounds/" "file/" "columbus1/" "grub/" "postgresql/" "groff/" "glib-2.0/" "xdiagnose/" "unity-lens-friends/" "hplip/" "GConf/" "ibus/" "unity-greeter/" "lintian/" "nvidia-prime/" "unity-control-center/" "hyphen/" "zeitgeist/" "cm-super/" "aglfn/" "debconf/" "lightdm-remote-session-freerdp/" "netpbm/" "gnome-user-share/" "mozilla/" "perl5/" "node-gyp/" "mousetweaks/" "software-properties/" "p11-kit/" "libwacom/" "terminfo/" "file-roller/" "im-config/" "unity-webapps/" "acpi-support/" "gconf/" "cvs/" "gnome-control-center/" "samba/" "texmf/" "guile/" "alien/" "geoclue-providers/" "ibus-pinyin/" "libc-bin/" "help-langpack/" "binfmts/" "gnome-session/" "foo2zjs/" "gccxml-0.9/" "pnm2ppa/" "myspell/" "appdata/" "dbus-1/" "doc/" "enchant/" "libtimezonemap/" "gnome-bluetooth/" "update-notifier/" "applications/" "ppp/" "software-center/" "GeoIP/" "build-essential/" "latex-cjk-common/" "lightdm/" "locale/" "system-config-printer/" "hal/" "ubuntu-release-upgrader/" "sysv-rc/" "vte/" "npm/" "X11/" "plainbox-providers-1/" "gtk-doc/" "2013.com.canonical.certification:checkbox/" "debhelper/" "avahi/" "pam/" "ufw/" "zenity/" "libgnomekbd/" "example-content/" "dict/" "python/" "aisleriot/" "gdm/" "orca/" "sgml/" "snmp/" "lightdm-remote-session-uccsconfigure/" "libexttextcat/" "libgphoto2/" "media-player-info/" "yelp-xsl/" "gnome/" "consoletrans/" "unity/" "pkg-config-crosswrapper" "farstream/" "boostbook/" "gnome-settings-daemon/" "seahorse/" "tabset/" "indicator-application/" "gst-plugins-base/" "libaudio2/" "libquvi-scripts/" "base-passwd/" "gnome-mahjongg/" "insserv/" "onboard/" "adium/" "xml/" "icons/" "gnome-video-effects/" "../" "./")
+
+ ("/usr/share/info/" (21740 59964 633929 437000) "gettext.info.gz" "dir" "./" "libidn-components.png" "dc.info.gz" "gdbm.info.gz" "com_err.info.gz" "autosprintf.info.gz" "grub.info.gz" "gzip.info.gz" "epspdf.info.gz" "sed.info.gz" "eplain.info.gz" "tds.info.gz" "coreutils.info.gz" "dvipng.info.gz" "latex2e.info.gz" "latex2man.info.gz" "bc.info.gz" "ssip.info.gz" "spd-say.info.gz" "automake-1.14.info-2.gz" "diffutils.info.gz" "emacs-23/" "emacs-24/" "ed.info.gz" "automake-1.14.info-1.gz" "speech-dispatcher.info.gz" "nano.info.gz" "grep.info.gz" "time.info.gz" "libidn.info.gz" "mtools.info.gz" "cvsclient.info.gz" "mf2pt1.info.gz" "fontname.info.gz" "../" "rluserman.info.gz" "web2c.info.gz" "m4.info.gz" "wget.info.gz" "libtasn1.info.gz" "gnupg1.info.gz" "latex2e-es.info.gz" "m4.info-2.gz" "dvips.info.gz" "m4.info-1.gz" "find.info.gz" "grub-dev.info.gz" "automake-1.14.info.gz" "kpathsea.info.gz" "cvs.info.gz" "texdraw.info.gz" "dir.old")
+
+ ("/usr/share/info/emacs-23/" (21438 65328 607946 308000) "emacs-3.gz" "vip.gz" "sc.gz" "./" "emacs-5.gz" "speedbar.gz" "ada-mode.gz" "calc.gz" "calc-2.gz" "emacs-2.gz" "gnus-3.gz" "emacs-mime.gz" "org-2.gz" "gnus-5.gz" "remember.gz" "nxml-mode.gz" "sasl.gz" "elisp-2.gz" "autotype.gz" "ccmode.gz" "elisp-7.gz" "emacs-1.gz" "elisp-11.gz" "elisp-1.gz" "pgg.gz" "message.gz" "pcl-cvs.gz" "eintr-3.gz" "elisp-10.gz" "calc-1.gz" "dired-x.gz" "gnus-2.gz" "rcirc.gz" "woman.gz" "efaq.gz" "mh-e-1.gz" "widget.gz" "ccmode-1.gz" "calc-6.gz" "tramp.gz" "gnus-1.gz" "eshell.gz" "epa.gz" "url.gz" "calc-3.gz" "calc-5.gz" "sieve.gz" "org-3.gz" "semantic.gz" "forms.gz" "ses.gz" "eudc.gz" "org.gz" "idlwave.gz" "erc.gz" "ede.gz" "mh-e-2.gz" "emacs-4.gz" "ediff.gz" "eintr.gz" "../" "elisp-9.gz" "auth.gz" "ccmode-2.gz" "elisp-3.gz" "elisp.gz" "eieio.gz" "gnus.gz" "calc-4.gz" "dbus.gz" "elisp-4.gz" "org-1.gz" "emacs.gz" "emacs-7.gz" "flymake.gz" "cl.gz" "info.gz" "eintr-1.gz" "elisp-5.gz" "eintr-2.gz" "elisp-8.gz" "elisp-6.gz" "emacs-6.gz" "ebrowse.gz" "emacs-8.gz" "mh-e.gz" "viper.gz" "gnus-4.gz" "mairix-el.gz" "smtpmail.gz" "edt.gz" "reftex.gz" "newsticker.gz")
+
+ ("/home/jun/.emacs.d/elpa/diff-hl-20150113.2113/" (21740 59686 613937 668000) "./" "diff-hl-dired.el" "diff-hl-pkg.el" "../" "diff-hl-margin.el" "diff-hl.el" "diff-hl-amend.el" "diff-hl-autoloads.el" "diff-hl.elc")
+
+ ("/home/" (21307 8556 670169 771000) "./" "keliubase/" "lifeifei/" "faye/" "../" "jun/" "nami/")
+
+ ("/home/jun/.emacs.d/elpa/markdown-mode-20150121.1229/" (21740 60668 869908 588000) "./" "markdown-mode-pkg.el" "markdown-mode-autoloads.el" "../" "markdown-mode.el")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
