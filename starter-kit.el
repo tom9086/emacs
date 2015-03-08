@@ -110,6 +110,14 @@ to your configuration."
 (starter-kit-load "starter-kit-registers.org")
 
 (starter-kit-load "starter-kit-js.org")
+
+(starter-kit-load "starter-kit-yasnippet.org")
+
+(starter-kit-install-if-needed 'company)
+
+(starter-kit-install-if-needed 'js2-mode)
+
+(starter-
 (cl-flet ((sk-load (base)
          (let* ((path          (expand-file-name base starter-kit-dir))
                 (literate      (concat path ".org"))
