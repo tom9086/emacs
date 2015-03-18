@@ -34,8 +34,9 @@
     ("fori
 " "for (int i= 0;i < ; i++){ }" nil 0)
     ("forj" "for (int j=0; j< ; j++){" nil 3)
-    ("out" "System.out.println(" nil 17)
+    ("out" "System.out.println(" nil 36)
     ("system.out.println(" "out" nil 0)
+    ("ts" "toString()" nil 1)
    ))
 
 (define-abbrev-table 'help-mode-abbrev-table '())

@@ -231,7 +231,7 @@ The latest version is at http://github.com/eschulte/emacs24-starter-kit/
   :PROPERTIES:
   :CUSTOM_ID: implementation
   :END:
-
+  
 This section contains all code implementing the Emacs Starter Kit.  It
 is probably safe to stop reading at this point unless you are
 interested in the actual code implementing the starter kit.
@@ -399,6 +399,11 @@ everyone using the starter kit.
   (starter-kit-load "starter-kit-js.org") 
   #+end_src
 
+- web mode
+  #+begin_src emacs-lisp
+  (starter-kit-load "starter-kit-web.org") 
+  #+end_src
+
 - yasnippet
   #+begin_src emacs-lisp
   (starter-kit-load "starter-kit-yasnippet.org")
@@ -414,6 +419,10 @@ everyone using the starter kit.
   (starter-kit-install-if-needed 'js2-mode)
   #+end_src
 
+- web mode
+  #+begin_src emacs-lisp
+  (starter-kit-install-if-needed 'web-mode)
+  #+end_src
 
 
 
@@ -471,7 +480,7 @@ After we've loaded all the Starter Kit defaults, lets load the User's stuff.
 #+end_src
 
 * Footnotes
-
+  
 [1] If you already have a directory at =~/.emacs.d= move it out of the
     way and put this there instead.
 
